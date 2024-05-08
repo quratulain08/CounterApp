@@ -1,5 +1,4 @@
-#ACCESS AT:
-https://quratulain08.github.io/CounterApp/
+
 
 # Getting Started with Create React App
 
